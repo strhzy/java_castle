@@ -38,6 +38,7 @@ public class castle {
         int deposit = sc.nextInt();
         money += deposit;
     }
+    
     public void withdraw(){
         System.out.println("Введите сумму снятия: ");
         int withdraw = sc.nextInt();
